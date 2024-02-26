@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/google/gofuzz"
-	"github.com/json-iterator/go"
+	"github.com/bobyangac/json-iterator-go"
 	"reflect"
 	"strings"
 	"testing"
