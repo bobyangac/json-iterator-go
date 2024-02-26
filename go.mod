@@ -1,4 +1,4 @@
-module github.com/json-iterator/go
+module github.com/bobyangac/json-iterator-go/extra
 
 go 1.12
 
